@@ -1,0 +1,26 @@
+.launchlist {
+    height: 100vh;
+    overflow: hidden auto;
+    width: 20vmax;
+    
+  }
+  .title{
+padding-left: 20px ;
+  }
+  .launch_list{
+      padding: 10px;
+      font-size: large;
+      cursor: pointer;
+      border-bottom: 1px solid rgb(65, 40, 40);
+      width: 16vmax;
+      margin: 10px;
+  }
+  .launch_list:hover{
+    background-color: rgb(209, 218, 218);
+  }
+  .launch_click{
+    cursor: pointer;
+  }
+  .scroll{
+      background-color: rgb(236, 236, 236);
+  }
